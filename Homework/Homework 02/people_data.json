@@ -1,0 +1,13 @@
+[
+    {
+        "type": "Person",
+        "name": "Mclovin",
+        "age": 24
+    },
+    {
+        "type": "student",
+        "name": "FOgell",
+        "age": 21,
+        "student_id": 321
+    }
+]
