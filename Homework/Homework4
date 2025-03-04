@@ -1,1 +1,25 @@
 
+#ver.2 attempt3
+def decode(message_file):#pulls the text 
+ #test   
+    with open(message_file, "r") as file:
+        lines = file.readlines()
+    number_word_dict = {} 
+    for line in lines:
+        parts = line.strip().split()
+        number = int(parts[0])
+        word = " ".join(parts[1:])
+        number_word_dict[number] = word
+        
+    pyramid_positions = []
+    current_num = 1
+    row = 1
+    while current_num in number_word_dict:
+        pyramid_positions.append(current_num)
+        current_num += row + 1
+        row += 1 
+ #       
+    decoded_words = [number_word_dict[num] for num in pyramid_positions if num in number_word_dict]
+    return " ".join(decoded_words)
+
+# review current_num 
