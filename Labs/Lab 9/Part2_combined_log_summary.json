@@ -1,0 +1,31 @@
+{
+    "INFO": {
+        "Frontend script crashed unexpectedly": 1,
+        "User attempted invalid input on form": 1,
+        "Disk write failure in logging system": 1
+    },
+    "CRITICAL": {
+        "Frontend script crashed unexpectedly": 1,
+        "User navigated to homepage": 1,
+        "Backend server crash: out of memory": 1,
+        "Failed to process payment request": 1,
+        "Slow response detected on API endpoint": 1,
+        "Received API request for user data": 1,
+        "Query execution time exceeds threshold": 3,
+        "Database corruption detected in users table": 1,
+        "System heartbeat OK": 1
+    },
+    "WARNING": {
+        "Failed to load user profile data": 1,
+        "Backend server crash: out of memory": 1,
+        "Multiple failed login attempts detected": 2,
+        "Disk write failure in logging system": 1
+    },
+    "ERROR": {
+        "Backup completed successfully": 1,
+        "Session creation failed": 2,
+        "Password reset token generated": 1,
+        "CPU usage exceeds 85%": 1,
+        "Kernel panic detected": 1
+    }
+}

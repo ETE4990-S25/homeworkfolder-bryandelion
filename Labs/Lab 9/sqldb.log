@@ -1,0 +1,5 @@
+2025-04-27 20:28:30,375 | sqldb | CRITICAL | Query execution time exceeds threshold
+2025-04-27 20:28:30,375 | sqldb | CRITICAL | Query execution time exceeds threshold
+2025-04-27 20:28:30,376 | sqldb | ERROR | Backup completed successfully
+2025-04-27 20:28:30,376 | sqldb | CRITICAL | Query execution time exceeds threshold
+2025-04-27 20:28:30,376 | sqldb | CRITICAL | Database corruption detected in users table

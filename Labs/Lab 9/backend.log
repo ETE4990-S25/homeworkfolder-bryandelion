@@ -1,0 +1,5 @@
+2025-04-27 20:28:30,374 | backend | WARNING | Backend server crash: out of memory
+2025-04-27 20:28:30,375 | backend | CRITICAL | Backend server crash: out of memory
+2025-04-27 20:28:30,375 | backend | CRITICAL | Failed to process payment request
+2025-04-27 20:28:30,375 | backend | CRITICAL | Slow response detected on API endpoint
+2025-04-27 20:28:30,375 | backend | CRITICAL | Received API request for user data

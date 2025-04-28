@@ -1,0 +1,5 @@
+2025-04-27 20:28:30,373 | frontend | INFO | Frontend script crashed unexpectedly
+2025-04-27 20:28:30,373 | frontend | INFO | User attempted invalid input on form
+2025-04-27 20:28:30,373 | frontend | CRITICAL | Frontend script crashed unexpectedly
+2025-04-27 20:28:30,373 | frontend | CRITICAL | User navigated to homepage
+2025-04-27 20:28:30,373 | frontend | WARNING | Failed to load user profile data

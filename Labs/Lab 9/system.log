@@ -1,0 +1,5 @@
+2025-04-27 20:28:30,377 | system | ERROR | CPU usage exceeds 85%
+2025-04-27 20:28:30,377 | system | WARNING | Disk write failure in logging system
+2025-04-27 20:28:30,377 | system | ERROR | Kernel panic detected
+2025-04-27 20:28:30,378 | system | CRITICAL | System heartbeat OK
+2025-04-27 20:28:30,378 | system | INFO | Disk write failure in logging system

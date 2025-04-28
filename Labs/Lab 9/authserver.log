@@ -1,0 +1,5 @@
+2025-04-27 20:28:30,376 | authserver | ERROR | Session creation failed
+2025-04-27 20:28:30,376 | authserver | WARNING | Multiple failed login attempts detected
+2025-04-27 20:28:30,376 | authserver | ERROR | Session creation failed
+2025-04-27 20:28:30,376 | authserver | ERROR | Password reset token generated
+2025-04-27 20:28:30,377 | authserver | WARNING | Multiple failed login attempts detected
